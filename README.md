@@ -6,7 +6,7 @@
 
 ![Screenshot 2024-12-31 at 12 13 25 AM](https://github.com/user-attachments/assets/2dd01e0a-102f-4d19-b7c0-823189bfbf17)
 
-**SpeechGrade** is an innovative educational platform designed to streamline speech assessment and enhance teaching methodologies through cutting-edge technologies. By integrating the MERN stack, machine learning models, large language models (LLMs), and Google's Generative AI, SpeechGrade SpeechGrade empowers educators and students with tools for automated transcription, similarity analysis, and personalized learning.
+`SpeechGrade` is an innovative educational platform designed to streamline speech assessment and enhance teaching methodologies through cutting-edge technologies. By integrating the MERN stack, machine learning models, large language models (LLMs), and Google's Generative AI, SpeechGrade SpeechGrade empowers educators and students with tools for automated transcription, similarity analysis, and personalized learning.
 
 This platform enhances teaching methodologies by streamlining speech evaluations and offering dynamic test creation capabilities, making it an indispensable tool for educational institutions and training programs.
 
@@ -19,10 +19,10 @@ This platform enhances teaching methodologies by streamlining speech evaluations
 ### **1. Speech Assessment**
 #### **Audio Transcription**
 - Users can upload audio files through a React-based client application.
-- The Flask server leverages OpenAI’s Whisper machine learning model for high-accuracy speech-to-text transcription.
+- The `Flask` server leverages `OpenAI’s Whisper` machine learning model for high-accuracy speech-to-text transcription.
 
 #### **Similarity Analysis**
-- Transcribed text is compared to a predefined target text (e.g., speeches or learning material) using Google's Generative AI.
+- Transcribed text is compared to a predefined target text (e.g., speeches or learning material) using `Google's Generative AI`.
 - The platform calculates a similarity score and provides detailed insights into alignment with the target text.
 
 #### **Results and Feedback**
@@ -33,7 +33,7 @@ This platform enhances teaching methodologies by streamlining speech evaluations
 
 ### **2. Question Generation and Metadata Management**
 #### **Metadata Management**
-- A Node.js server efficiently handles metadata related to teachers, students, and classes.
+- A `Node.js` server efficiently handles metadata related to teachers, students, and classes.
 - Enables organized storage and retrieval of educational resources.
 
 #### **LLM-Powered Question Generation**
@@ -111,7 +111,7 @@ SpeechGrade incorporates data-driven insights to offer personalized feedback, en
    ```
 
 4. **Run the Client Application**  
-   Navigate to the client folder and start the React application.  
+   Navigate to the client folder and start the `React` application.  
    ```bash
    cd ../client
    npm install
