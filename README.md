@@ -4,6 +4,8 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
+![Screenshot 2024-12-31 at 12 13 25 AM](https://github.com/user-attachments/assets/2dd01e0a-102f-4d19-b7c0-823189bfbf17)
+
 **SpeechGrade** is an innovative educational platform designed to streamline speech assessment and enhance teaching methodologies through cutting-edge technologies. By integrating the MERN stack, machine learning models, large language models (LLMs), and Google's Generative AI, SpeechGrade SpeechGrade empowers educators and students with tools for automated transcription, similarity analysis, and personalized learning.
 
 This platform enhances teaching methodologies by streamlining speech evaluations and offering dynamic test creation capabilities, making it an indispensable tool for educational institutions and training programs.
@@ -147,9 +149,7 @@ The platform employs the following metrics to assess speech similarity and syste
 - **Semantic Similarity Score:** Quantifies alignment between the transcribed and target text.  
 - **Performance Analytics:** Tracks user progress over time, providing actionable insights for improvement.  
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
+---
 
 ## **Benefits**  
 - **Educator Efficiency:** Automates transcription, assessment, and test creation.  
@@ -165,6 +165,8 @@ The platform employs the following metrics to assess speech similarity and syste
 - **Multi-language Support:** Expanding the platform to support multiple languages for global accessibility.  
 - **Time-Series Analysis:** Incorporating temporal patterns in speech to provide deeper insights into fluency and pacing.  
 - **Enhanced Analytics:** Advanced dashboards for educators to analyze class-wide performance trends.  
+
+![Screenshot 2024-12-31 at 12 10 18 AM](https://github.com/user-attachments/assets/cc7542cf-889a-4fc8-9c96-77d3fb9d92b5)
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
