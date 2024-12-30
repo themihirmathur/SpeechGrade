@@ -1,0 +1,160 @@
+2024-06-16 03:13:31,813 WARNING  * Debugger is active!
+2024-06-16 03:13:31,814 INFO  * Debugger PIN: 181-844-350
+2024-06-16 03:57:24,708 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-16 03:57:24,709 INFO [33mPress CTRL+C to quit[0m
+2024-06-16 03:57:24,732 INFO  * Restarting with watchdog (inotify)
+2024-06-16 03:57:33,305 WARNING  * Debugger is active!
+2024-06-16 03:57:33,307 INFO  * Debugger PIN: 129-165-642
+2024-06-16 04:07:27,324 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-16 04:07:27,324 INFO [33mPress CTRL+C to quit[0m
+2024-06-16 04:07:27,341 INFO  * Restarting with watchdog (inotify)
+2024-06-16 04:07:33,048 WARNING  * Debugger is active!
+2024-06-16 04:07:33,049 INFO  * Debugger PIN: 519-636-862
+2024-06-16 04:13:14,020 INFO Audio file saved to uploads/recording.wav
+2024-06-16 04:13:24,933 INFO Audio file removed from uploads/recording.wav
+2024-06-16 04:13:24,934 INFO Transcription result:  Hi, I am Ironman.
+2024-06-16 04:13:26,861 INFO Comparison result: Pass
+2024-06-16 04:13:26,861 INFO Target: Hi, I am Iron Man, Prediction:  Hi, I am Ironman., Comparison Result: Pass
+2024-06-16 04:13:26,864 INFO 127.0.0.1 - - [16/Jun/2024 04:13:26] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 04:13:26,880 INFO 127.0.0.1 - - [16/Jun/2024 04:13:26] "[33mOPTIONS /api/student/updateStudentLevel HTTP/1.1[0m" 404 -
+2024-06-16 04:14:02,998 INFO Audio file saved to uploads/recording.wav
+2024-06-16 04:14:55,186 INFO Audio file removed from uploads/recording.wav
+2024-06-16 04:14:55,187 INFO Transcription result: mittel
+2024-06-16 04:14:55,897 INFO Comparison result: Fail
+2024-06-16 04:14:55,898 INFO Target: Hi, I am Iron Man, Prediction: mittel, Comparison Result: Fail
+2024-06-16 04:14:55,901 INFO 127.0.0.1 - - [16/Jun/2024 04:14:55] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 04:15:17,305 INFO Audio file saved to uploads/recording.wav
+2024-06-16 04:15:25,695 INFO Audio file removed from uploads/recording.wav
+2024-06-16 04:15:25,696 INFO Transcription result:  Hi, I am Iron Man.
+2024-06-16 04:15:26,411 INFO Comparison result: Pass
+2024-06-16 04:15:26,412 INFO Target: Hi, I am Iron Man, Prediction:  Hi, I am Iron Man., Comparison Result: Pass
+2024-06-16 04:15:26,414 INFO 127.0.0.1 - - [16/Jun/2024 04:15:26] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 04:15:26,425 INFO 127.0.0.1 - - [16/Jun/2024 04:15:26] "[33mOPTIONS /api/student/updateStudentLevel HTTP/1.1[0m" 404 -
+2024-06-16 08:13:25,523 WARNING  * Debugger is active!
+2024-06-16 08:13:25,524 INFO  * Debugger PIN: 343-604-442
+2024-06-16 08:16:45,158 INFO Audio file saved to uploads/recording.wav
+2024-06-16 08:16:52,706 INFO Audio file removed from uploads/recording.wav
+2024-06-16 08:16:52,706 INFO Transcription result:  I hope you are bugging him. This is the thing with the hackathons that they waste too much time on useless things.
+2024-06-16 08:16:54,651 INFO Comparison result: Pass
+2024-06-16 08:16:54,651 INFO Target: this is the thing with the hackathons that they waste too much time on useless things, Prediction:  I hope you are bugging him. This is the thing with the hackathons that they waste too much time on useless things., Comparison Result: Pass
+2024-06-16 08:16:54,652 INFO 127.0.0.1 - - [16/Jun/2024 08:16:54] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 08:16:54,748 INFO 127.0.0.1 - - [16/Jun/2024 08:16:54] "[33mOPTIONS /api/student/updateStudentLevel HTTP/1.1[0m" 404 -
+2024-06-16 08:17:31,695 INFO Audio file saved to uploads/recording.wav
+2024-06-16 08:17:38,128 INFO Audio file removed from uploads/recording.wav
+2024-06-16 08:17:38,129 INFO Transcription result:  Please sit down. This is the thing with things of things.
+2024-06-16 08:17:38,889 INFO Comparison result: Fail
+2024-06-16 08:17:38,889 INFO Target: this is the things with things of things, Prediction:  Please sit down. This is the thing with things of things., Comparison Result: Fail
+2024-06-16 08:17:38,890 INFO 127.0.0.1 - - [16/Jun/2024 08:17:38] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 08:18:16,983 INFO Audio file saved to uploads/recording.wav
+2024-06-16 08:18:22,685 INFO Audio file removed from uploads/recording.wav
+2024-06-16 08:18:22,686 INFO Transcription result:  This is the thing with things
+2024-06-16 08:18:23,332 INFO Comparison result: Fail
+2024-06-16 08:18:23,332 INFO Target: this is the things with things of things, Prediction:  This is the thing with things, Comparison Result: Fail
+2024-06-16 08:18:23,333 INFO 127.0.0.1 - - [16/Jun/2024 08:18:23] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 08:19:20,591 INFO Audio file saved to uploads/recording.wav
+2024-06-16 08:19:26,644 INFO Audio file removed from uploads/recording.wav
+2024-06-16 08:19:26,646 INFO Transcription result:  This is the things with things of things.
+2024-06-16 08:19:27,537 INFO Comparison result: Pass
+2024-06-16 08:19:27,538 INFO Target: this is the things with things of things, Prediction:  This is the things with things of things., Comparison Result: Pass
+2024-06-16 08:19:27,539 INFO 127.0.0.1 - - [16/Jun/2024 08:19:27] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 08:19:27,597 INFO 127.0.0.1 - - [16/Jun/2024 08:19:27] "[33mOPTIONS /api/student/updateStudentLevel HTTP/1.1[0m" 404 -
+2024-06-16 08:20:32,900 INFO Audio file saved to uploads/recording.wav
+2024-06-16 08:20:38,778 INFO Audio file removed from uploads/recording.wav
+2024-06-16 08:20:38,778 INFO Transcription result:  This is the things with things of things.
+2024-06-16 08:20:39,523 INFO Comparison result: Pass
+2024-06-16 08:20:39,524 INFO Target: this is the things with things of things, Prediction:  This is the things with things of things., Comparison Result: Pass
+2024-06-16 08:20:39,525 INFO 127.0.0.1 - - [16/Jun/2024 08:20:39] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 08:20:39,611 INFO 127.0.0.1 - - [16/Jun/2024 08:20:39] "[33mOPTIONS /api/student/updateStudentLevel HTTP/1.1[0m" 404 -
+2024-06-16 08:22:43,499 INFO Audio file saved to uploads/recording.wav
+2024-06-16 08:22:49,139 INFO Audio file removed from uploads/recording.wav
+2024-06-16 08:22:49,140 INFO Transcription result:  this is the things with things of things
+2024-06-16 08:22:49,777 INFO Comparison result: Pass
+2024-06-16 08:22:49,778 INFO Target: this is the things with things of things, Prediction:  this is the things with things of things, Comparison Result: Pass
+2024-06-16 08:22:49,779 INFO 127.0.0.1 - - [16/Jun/2024 08:22:49] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 08:22:49,818 INFO 127.0.0.1 - - [16/Jun/2024 08:22:49] "[33mOPTIONS /api/student/updateStudentLevel HTTP/1.1[0m" 404 -
+2024-06-16 08:45:53,279 INFO Audio file saved to uploads/recording.wav
+2024-06-16 08:45:58,305 INFO Audio file removed from uploads/recording.wav
+2024-06-16 08:45:58,306 INFO Transcription result:  This is the things with things.
+2024-06-16 08:46:00,481 INFO Comparison result: Pass
+2024-06-16 08:46:00,482 INFO Target: this is the things with things, Prediction:  This is the things with things., Comparison Result: Pass
+2024-06-16 08:46:00,483 INFO 127.0.0.1 - - [16/Jun/2024 08:46:00] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 08:49:02,885 INFO Audio file saved to uploads/recording.wav
+2024-06-16 08:49:07,799 INFO Audio file removed from uploads/recording.wav
+2024-06-16 08:49:07,800 INFO Transcription result:  This is the things with things.
+2024-06-16 08:49:08,488 INFO Comparison result: Pass
+2024-06-16 08:49:08,488 INFO Target: this is the things with things, Prediction:  This is the things with things., Comparison Result: Pass
+2024-06-16 08:49:08,490 INFO 127.0.0.1 - - [16/Jun/2024 08:49:08] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 09:00:17,796 INFO Audio file saved to uploads/recording.wav
+2024-06-16 09:00:23,434 INFO Audio file removed from uploads/recording.wav
+2024-06-16 09:00:23,434 INFO Transcription result:  This is the things with the things.
+2024-06-16 09:00:25,265 INFO Comparison result: Pass
+2024-06-16 09:00:25,265 INFO Target: this is the things with the things, Prediction:  This is the things with the things., Comparison Result: Pass
+2024-06-16 09:00:25,266 INFO 127.0.0.1 - - [16/Jun/2024 09:00:25] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 09:02:10,263 INFO Audio file saved to uploads/recording.wav
+2024-06-16 09:02:15,830 INFO Audio file removed from uploads/recording.wav
+2024-06-16 09:02:15,832 INFO Transcription result:  This is the things with things.
+2024-06-16 09:02:16,670 INFO Comparison result: Pass
+2024-06-16 09:02:16,670 INFO Target: this is the things with things, Prediction:  This is the things with things., Comparison Result: Pass
+2024-06-16 09:02:16,671 INFO 127.0.0.1 - - [16/Jun/2024 09:02:16] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 09:03:26,833 INFO Audio file saved to uploads/recording.wav
+2024-06-16 09:03:32,088 INFO Audio file removed from uploads/recording.wav
+2024-06-16 09:03:32,089 INFO Transcription result:  This is the things with things.
+2024-06-16 09:03:32,680 INFO Comparison result: Pass
+2024-06-16 09:03:32,680 INFO Target: this is the things with things, Prediction:  This is the things with things., Comparison Result: Pass
+2024-06-16 09:03:32,682 INFO 127.0.0.1 - - [16/Jun/2024 09:03:32] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 09:36:18,227 INFO Audio file saved to uploads/recording.wav
+2024-06-16 09:36:25,228 INFO Audio file removed from uploads/recording.wav
+2024-06-16 09:36:25,229 INFO Transcription result:  This is the best team I have ever played with in my life. When we finally get on the point, everyone flies.
+2024-06-16 09:36:27,432 INFO Comparison result: Pass
+2024-06-16 09:36:27,432 INFO Target: This is the best team I have ever played with in my life, when we finally get on the point everyone flies, Prediction:  This is the best team I have ever played with in my life. When we finally get on the point, everyone flies., Comparison Result: Pass
+2024-06-16 09:36:27,435 INFO 127.0.0.1 - - [16/Jun/2024 09:36:27] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 09:37:58,519 INFO Audio file saved to uploads/recording.wav
+2024-06-16 09:38:05,423 INFO Audio file removed from uploads/recording.wav
+2024-06-16 09:38:05,423 INFO Transcription result:  Once upon a time there was king living with his queen. His kingdom was at war with an alien and they would soon be destroyed.
+2024-06-16 09:38:06,146 INFO Comparison result: Pass
+2024-06-16 09:38:06,146 INFO Target: Once upon a time, there was king living with his queen. His kingdom was at war with an alien and they would soon be destroyed, Prediction:  Once upon a time there was king living with his queen. His kingdom was at war with an alien and they would soon be destroyed., Comparison Result: Pass
+2024-06-16 09:38:06,147 INFO 127.0.0.1 - - [16/Jun/2024 09:38:06] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 09:38:31,327 INFO Audio file saved to uploads/recording.wav
+2024-06-16 09:38:54,220 INFO Audio file removed from uploads/recording.wav
+2024-06-16 09:38:54,221 INFO Transcription result:  ان کندائیں پہنچ چاہتے ہیں 빨 پڑ ends
+2024-06-16 09:38:54,889 INFO Comparison result: Fail
+2024-06-16 09:38:54,889 INFO Target: This is meant to fail, Prediction:  ان کندائیں پہنچ چاہتے ہیں 빨 پڑ ends, Comparison Result: Fail
+2024-06-16 09:38:54,895 INFO 127.0.0.1 - - [16/Jun/2024 09:38:54] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 09:42:27,282 INFO Audio file saved to uploads/recording.wav
+2024-06-16 09:42:32,443 INFO Audio file removed from uploads/recording.wav
+2024-06-16 09:42:32,444 INFO Transcription result: お疲れ様でした。
+2024-06-16 09:42:33,209 INFO Comparison result: Fail
+2024-06-16 09:42:33,210 INFO Target: efjniuh eopfm oijfpwijdpiw jr, Prediction: お疲れ様でした。, Comparison Result: Fail
+2024-06-16 09:42:33,211 INFO 127.0.0.1 - - [16/Jun/2024 09:42:33] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 09:45:29,155 INFO Audio file saved to uploads/recording.wav
+2024-06-16 09:45:33,910 INFO Audio file removed from uploads/recording.wav
+2024-06-16 09:45:33,911 INFO Transcription result:  نائٹ مر
+2024-06-16 09:45:34,764 INFO Comparison result: Pass
+2024-06-16 09:45:34,764 INFO Target: nightmare, Prediction:  نائٹ مر, Comparison Result: Pass
+2024-06-16 09:45:34,767 INFO 127.0.0.1 - - [16/Jun/2024 09:45:34] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 09:48:50,451 INFO Audio file saved to uploads/recording.wav
+2024-06-16 09:48:55,487 INFO Audio file removed from uploads/recording.wav
+2024-06-16 09:48:55,488 INFO Transcription result:  This is an automatic recording of audio.
+2024-06-16 09:48:56,107 INFO Comparison result: Fail
+2024-06-16 09:48:56,107 INFO Target: You are a failure, Prediction:  This is an automatic recording of audio., Comparison Result: Fail
+2024-06-16 09:48:56,108 INFO 127.0.0.1 - - [16/Jun/2024 09:48:56] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 09:49:10,563 INFO Audio file saved to uploads/recording.wav
+2024-06-16 09:49:15,560 INFO Audio file removed from uploads/recording.wav
+2024-06-16 09:49:15,560 INFO Transcription result:  You also failed the sentence test.
+2024-06-16 09:49:16,206 INFO Comparison result: Fail
+2024-06-16 09:49:16,206 INFO Target: You are a failure in paragraphs, Prediction:  You also failed the sentence test., Comparison Result: Fail
+2024-06-16 09:49:16,207 INFO 127.0.0.1 - - [16/Jun/2024 09:49:16] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 09:49:29,071 INFO Audio file saved to uploads/recording.wav
+2024-06-16 09:49:34,379 INFO Audio file removed from uploads/recording.wav
+2024-06-16 09:49:34,380 INFO Transcription result:  Now you are about to fail the sentence test.
+2024-06-16 09:49:34,998 INFO Comparison result: Fail
+2024-06-16 09:49:34,999 INFO Target: You are a failure in sentences, Prediction:  Now you are about to fail the sentence test., Comparison Result: Fail
+2024-06-16 09:49:35,001 INFO 127.0.0.1 - - [16/Jun/2024 09:49:35] "POST /transcribe HTTP/1.1" 200 -
+2024-06-16 09:50:09,227 INFO Audio file saved to uploads/recording.wav
+2024-06-16 09:50:26,032 INFO Audio file removed from uploads/recording.wav
+2024-06-16 09:50:26,034 INFO Transcription result:  Hamel
+2024-06-16 09:50:26,717 INFO Comparison result: Fail
+2024-06-16 09:50:26,717 INFO Target: hammer, Prediction:  Hamel, Comparison Result: Fail
+2024-06-16 09:50:26,719 INFO 127.0.0.1 - - [16/Jun/2024 09:50:26] "POST /transcribe HTTP/1.1" 200 -

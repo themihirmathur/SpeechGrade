@@ -1,0 +1,23 @@
+2024-06-16 04:13:26,861 Target: Hi, I am Iron Man, Prediction:  Hi, I am Ironman., Comparison Result: Pass
+2024-06-16 04:14:55,898 Target: Hi, I am Iron Man, Prediction: mittel, Comparison Result: Fail
+2024-06-16 04:15:26,412 Target: Hi, I am Iron Man, Prediction:  Hi, I am Iron Man., Comparison Result: Pass
+2024-06-16 08:16:54,651 Target: this is the thing with the hackathons that they waste too much time on useless things, Prediction:  I hope you are bugging him. This is the thing with the hackathons that they waste too much time on useless things., Comparison Result: Pass
+2024-06-16 08:17:38,889 Target: this is the things with things of things, Prediction:  Please sit down. This is the thing with things of things., Comparison Result: Fail
+2024-06-16 08:18:23,332 Target: this is the things with things of things, Prediction:  This is the thing with things, Comparison Result: Fail
+2024-06-16 08:19:27,538 Target: this is the things with things of things, Prediction:  This is the things with things of things., Comparison Result: Pass
+2024-06-16 08:20:39,524 Target: this is the things with things of things, Prediction:  This is the things with things of things., Comparison Result: Pass
+2024-06-16 08:22:49,778 Target: this is the things with things of things, Prediction:  this is the things with things of things, Comparison Result: Pass
+2024-06-16 08:46:00,482 Target: this is the things with things, Prediction:  This is the things with things., Comparison Result: Pass
+2024-06-16 08:49:08,488 Target: this is the things with things, Prediction:  This is the things with things., Comparison Result: Pass
+2024-06-16 09:00:25,265 Target: this is the things with the things, Prediction:  This is the things with the things., Comparison Result: Pass
+2024-06-16 09:02:16,670 Target: this is the things with things, Prediction:  This is the things with things., Comparison Result: Pass
+2024-06-16 09:03:32,680 Target: this is the things with things, Prediction:  This is the things with things., Comparison Result: Pass
+2024-06-16 09:36:27,432 Target: This is the best team I have ever played with in my life, when we finally get on the point everyone flies, Prediction:  This is the best team I have ever played with in my life. When we finally get on the point, everyone flies., Comparison Result: Pass
+2024-06-16 09:38:06,146 Target: Once upon a time, there was king living with his queen. His kingdom was at war with an alien and they would soon be destroyed, Prediction:  Once upon a time there was king living with his queen. His kingdom was at war with an alien and they would soon be destroyed., Comparison Result: Pass
+2024-06-16 09:38:54,889 Target: This is meant to fail, Prediction:  ان کندائیں پہنچ چاہتے ہیں 빨 پڑ ends, Comparison Result: Fail
+2024-06-16 09:42:33,210 Target: efjniuh eopfm oijfpwijdpiw jr, Prediction: お疲れ様でした。, Comparison Result: Fail
+2024-06-16 09:45:34,764 Target: nightmare, Prediction:  نائٹ مر, Comparison Result: Pass
+2024-06-16 09:48:56,107 Target: You are a failure, Prediction:  This is an automatic recording of audio., Comparison Result: Fail
+2024-06-16 09:49:16,206 Target: You are a failure in paragraphs, Prediction:  You also failed the sentence test., Comparison Result: Fail
+2024-06-16 09:49:34,999 Target: You are a failure in sentences, Prediction:  Now you are about to fail the sentence test., Comparison Result: Fail
+2024-06-16 09:50:26,717 Target: hammer, Prediction:  Hamel, Comparison Result: Fail

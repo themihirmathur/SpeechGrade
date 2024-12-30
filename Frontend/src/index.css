@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+table{
+    margin-top:20px;
+    border: 1px solid black;
+}
+th{ 
+    font-size: 20px;
+}
+
+th, td {
+    padding-right: 50px;
+    padding-left:10px;
+    padding-top:10px;
+    padding-bottom: 20px;
+    text-align: center;
+  }

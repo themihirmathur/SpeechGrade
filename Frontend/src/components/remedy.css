@@ -1,0 +1,16 @@
+
+.bg {
+    background-color: rgb(214, 131, 227);
+    border: 3px solid black; 
+    margin: 20px 30px; 
+    padding: 10px;
+  }
+  
+  .head {
+    font-size: 30px;
+    text-align: center; 
+  }
+  
+  .list {
+    font-size: 20px;
+  }
