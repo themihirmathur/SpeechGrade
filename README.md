@@ -1,10 +1,16 @@
 # SpeechGrade: Educational Platform for Speech Assessment and Question Generation  
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 **SpeechGrade** is an innovative educational platform designed to streamline speech assessment and enhance teaching methodologies through cutting-edge technologies. By integrating the MERN stack, machine learning models, large language models (LLMs), and Google's Generative AI, SpeechGrade SpeechGrade empowers educators and students with tools for automated transcription, similarity analysis, and personalized learning.
 
 This platform enhances teaching methodologies by streamlining speech evaluations and offering dynamic test creation capabilities, making it an indispensable tool for educational institutions and training programs.
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## Features
 
@@ -40,7 +46,9 @@ This platform enhances teaching methodologies by streamlining speech evaluations
 ### 3. **Personalized Learning**
 SpeechGrade incorporates data-driven insights to offer personalized feedback, enabling students to focus on specific areas for improvement. This personalization enhances the learning experience and boosts student outcomes.  
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## **Technologies Used**  
 
@@ -48,19 +56,27 @@ SpeechGrade incorporates data-driven insights to offer personalized feedback, en
 - **React.js**: Interactive and user-friendly interface for uploading audio and viewing results.  
 - **Material-UI**: Modern and responsive component library for a seamless user experience.  
 
+---
+
 ### **Backend**  
 - **Flask**: Server-side processing for speech transcription and similarity analysis.  
 - **Node.js**: Server for metadata management and integration with LLMs.  
 - **Express.js**: Framework for efficient API management.  
 
+---
+
 ### **Database**  
 - **MongoDB**: NoSQL database for storing user profiles, performance logs, and question sets.  
+
+---
 
 ### **Machine Learning**  
 - **Whisper Model**: OpenAI’s state-of-the-art speech-to-text model for accurate transcription.  
 - **Google's Generative AI**: Advanced model for text similarity assessment and educational content analysis.  
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## **Installation**  
 
@@ -103,7 +119,9 @@ SpeechGrade incorporates data-driven insights to offer personalized feedback, en
 5. **Access the Application**  
    Open your browser and navigate to `http://localhost:3000`.  
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## **Usage**  
 
@@ -112,12 +130,16 @@ SpeechGrade incorporates data-driven insights to offer personalized feedback, en
 - Upload an audio file of your speech or presentation.  
 - View the transcription and similarity score along with detailed feedback.  
 
+---
+
 ### 2. **Question Generation**
 - Teachers can log in to access the question generation tool.  
 - Input a topic or learning material, and the platform will generate custom test questions.  
 - Save the questions for use in assessments or classroom activities.  
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## **Evaluation Metrics**  
 The platform employs the following metrics to assess speech similarity and system performance:  
@@ -125,14 +147,18 @@ The platform employs the following metrics to assess speech similarity and syste
 - **Semantic Similarity Score:** Quantifies alignment between the transcribed and target text.  
 - **Performance Analytics:** Tracks user progress over time, providing actionable insights for improvement.  
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## **Benefits**  
 - **Educator Efficiency:** Automates transcription, assessment, and test creation.  
 - **Improved Learning Outcomes:** Personalized feedback fosters targeted skill development.  
 - **Scalable and Flexible:** Supports diverse use cases, from language learning to public speaking training.  
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## **Future Work**  
 - **Real-Time Feedback:** Implementing real-time transcription and scoring during live presentations.  
@@ -140,15 +166,9 @@ The platform employs the following metrics to assess speech similarity and syste
 - **Time-Series Analysis:** Incorporating temporal patterns in speech to provide deeper insights into fluency and pacing.  
 - **Enhanced Analytics:** Advanced dashboards for educators to analyze class-wide performance trends.  
 
----
-
-# SpeechGrade: Educational Platform for Speech Assessment and Question Generation
-
-**SpeechGrade** is an advanced educational platform designed to revolutionize speech assessment and question generation using cutting-edge technologies. By integrating the MERN stack, machine learning models, large language models (LLMs), and Google's Generative AI, SpeechGrade empowers educators and students with tools for automated transcription, similarity analysis, and personalized learning. 
-
-This platform enhances teaching methodologies by streamlining speech evaluations and offering dynamic test creation capabilities, making it an indispensable tool for educational institutions and training programs.
-
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## Contribution
 
@@ -160,3 +180,13 @@ Contributions to SpeechGrade are welcome. Please follow these steps:
 For major changes, open an issue to discuss the proposed modifications beforehand.
 
 ---
+
+## **Contact**
+If you have any questions or feedback, feel free to reach out:  
+**Name**: Mihir Mathur  
+**Email**: [themihirmathur@gmail.com](mailto:themihirmathur@gmail.com)  
+**Phone**: +91-7525099328  
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
